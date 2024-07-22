@@ -22,3 +22,4 @@ dependencies:
       - transformers==4.35.2
       - ipython==8.22.1
       - dgllife
+      - openpyxl
